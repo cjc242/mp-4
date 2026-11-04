@@ -4,15 +4,88 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef0dbc71-91e6-42d1-9e09-0cdae1365333" name="Changes" comment="" />
+    <list default="true" id="ef0dbc71-91e6-42d1-9e09-0cdae1365333" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/layout.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/weather/[city]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/weather/[city]/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/CityForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/CityForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/NavLinks.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/NavLinks.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/WeatherDisplay.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/WeatherDisplay.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/getWeather.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/getWeather.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/types.ts" beforeDir="false" afterPath="$PROJECT_DIR$/types.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="2.2067785218793263" />
+      <entry key="MS500" value="4.95308299928309" />
+      <entry key="S2" value="9.01857286844368" />
+      <entry key="S5" value="16.579618395079237" />
+      <entry key="S10" value="24.11507181625194" />
+      <entry key="S30" value="35.290176590416344" />
+      <entry key="S60" value="39.969767471709915" />
+      <entry key="M2" value="42.8156997752425" />
+      <entry key="M5" value="44.90680289606627" />
+      <entry key="M10" value="45.8164574183103" />
+      <entry key="M15" value="46.17121851812621" />
+      <entry key="M30" value="46.56268678988306" />
+      <entry key="H1" value="46.79860196017914" />
+      <entry key="H2" value="47.699525879174686" />
+      <entry key="H4" value="51.71537155205466" />
+      <entry key="D1" value="67.83957991599088" />
+      <entry key="W1" value="73.84356159899899" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="2.1319003820028835" />
+      <entry key="MS500" value="4.919445151769513" />
+      <entry key="S2" value="9.002565327954436" />
+      <entry key="S5" value="16.566380677015708" />
+      <entry key="S10" value="24.104175512160268" />
+      <entry key="S30" value="35.28380165806332" />
+      <entry key="S60" value="39.96591748871548" />
+      <entry key="M2" value="42.81356448444126" />
+      <entry key="M5" value="44.90588775227631" />
+      <entry key="M10" value="45.81598738383156" />
+      <entry key="M15" value="46.170902049129516" />
+      <entry key="M30" value="46.56252687906505" />
+      <entry key="H1" value="46.79852132175355" />
+      <entry key="H2" value="47.699481473531854" />
+      <entry key="H4" value="51.71533936117464" />
+      <entry key="D1" value="67.83956780287437" />
+      <entry key="W1" value="73.8435595090493" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6,
@@ -23,24 +96,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/christianjohnson/Desktop/Computer_Science/CS303/miniprojects/mp-4&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "js.debugger.nextJs.config.created.client": "true",
+    "js.debugger.nextJs.config.created.server": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/christianjohnson/Desktop/Computer_Science/CS303/miniprojects/mp-4",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/Users/christianjohnson/Desktop/Computer_Science/CS303/miniprojects/mp-4/node_modules/typescript/lib"
   }
-}</component>
+}]]></component>
+  <component name="RunManager" selected="npm.Next.js: server-side">
+    <configuration name="Next.js: debug client-side" type="JavascriptDebugType" uri="http://localhost:3000/">
+      <method v="2" />
+    </configuration>
+    <configuration name="Next.js: server-side" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -56,7 +153,8 @@
       <option name="presentableId" value="Default" />
       <updated>1793728060254</updated>
       <workItem from="1793728061270" duration="422000" />
-      <workItem from="1793728492851" duration="303000" />
+      <workItem from="1793728492851" duration="966000" />
+      <workItem from="1793729471564" duration="3109000" />
     </task>
     <servers />
   </component>
